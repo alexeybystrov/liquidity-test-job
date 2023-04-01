@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/species", {data:[{}],fetch:{},mutations:[]});

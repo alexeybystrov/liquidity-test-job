@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/films", {data:[{}],fetch:{},mutations:[]});
